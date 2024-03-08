@@ -1,8 +1,15 @@
 import './App.css';
 
+import Checkbox from './components/Checkbox';
+
 function App() {
   return (
-    <div className="App"></div>
+    <div>
+		{/* <Checkbox
+			isChecked={false} />
+		<Checkbox
+			isChecked={true} /> */}
+	</div>
   );
 }
 
